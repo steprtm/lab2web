@@ -33,6 +33,30 @@ Hasil:
 
 ![firefox_63o6S2kBfl](https://github.com/steprtm/lab2web/assets/129705802/3bd23f04-ca4a-4b83-95c5-ce2ec4feac7e)
 
+## Penjelasan
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PHP Dasar</title>
+</head>
+<body>
+    <h2>Form Input</h2>
+    <form method="post">
+        <label>Nama: </label>
+        <input type="text" name="nama">
+        <label>Tanggal Lahir: </label>
+        <input type="date" name="tanggal_lahir">
+        <label>Pekerjaan: </label>
+        <select name="pekerjaan">
+            <option value="Operator">Operator</option>
+            <option value="Developer">Developer</option>
+            <option value="Manager">Manager</option>
+        </select>
+        <input type="submit" value="Kirim">
+    </form>
+
+
 
 
 
