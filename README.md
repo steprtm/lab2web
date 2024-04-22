@@ -9,4 +9,19 @@ Kode :
 Hasil :
 
 
-![firefox_Bgx8XunTfa](https://github.com/steprtm/lab2web/assets/129705802/e5a68a10-b76f-4f33-83a4-3dc35e188d6e)
+![firefox_NLBlF7Z6rR](https://github.com/steprtm/lab2web/assets/129705802/bc3adfcf-c6b5-44bd-85bc-a0cf7da6cf47)
+
+# Menggunakan Variable
+
+Kode :
+
+![Code_rKnoeCI3Ot](https://github.com/steprtm/lab2web/assets/129705802/5c276778-af77-4a4d-b300-a99f7a3b7e24)
+
+Hasil :
+
+![firefox_0VMEfGiL2X](https://github.com/steprtm/lab2web/assets/129705802/d6d3eb86-288a-41c3-989b-5b4c092419a8)
+
+
+
+
+
