@@ -25,6 +25,16 @@ Hasil:
 
 ![firefox_TNTK7EePzL](https://github.com/steprtm/lab2web/assets/129705802/9b5b897b-8fd0-452d-9045-ecc7f4f7f618)
 
+## Tugas
+![Code_k4QL8UveeF](https://github.com/steprtm/lab2web/assets/129705802/35797c5a-5da3-4716-b973-01370e6899d4)
+
+Hasil:
+
+
+![firefox_63o6S2kBfl](https://github.com/steprtm/lab2web/assets/129705802/3bd23f04-ca4a-4b83-95c5-ce2ec4feac7e)
+
+
+
 
 
 
