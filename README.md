@@ -11,7 +11,7 @@ Hasil :
 
 ![firefox_NLBlF7Z6rR](https://github.com/steprtm/lab2web/assets/129705802/bc3adfcf-c6b5-44bd-85bc-a0cf7da6cf47)
 
-# Menggunakan Variable
+## Menggunakan Variable
 
 Kode :
 
