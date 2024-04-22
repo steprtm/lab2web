@@ -1,5 +1,5 @@
 # lab2web
-
+Stephen Pratama Kurnia TI.22.A5 312210635
 
 ## Belajar PHP Dasar
 ![Code_EcuixSMOoV](https://github.com/steprtm/lab2web/assets/129705802/a5dded82-7a92-49bc-9d3e-fb7a32bd45b3)
